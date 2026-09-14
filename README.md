@@ -162,7 +162,11 @@ const rakhi = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rakhimittal09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rakhimittal09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rakhimittal09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=-SECRET,-SSS,-SS,-S,-AAA"/>
 
 </div>
 
