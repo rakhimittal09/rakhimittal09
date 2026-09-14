@@ -158,67 +158,11 @@ const rakhi = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rakhimittal09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rakhimittal09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=-SECRET,-SSS,-SS,-S,-AAA"/>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## 📈 &nbsp;Activity Graph
-
-<div align="center">
-
-[![Rakhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakhimittal09&theme=tokyo-night&hide_border=true&area=true&area_color=A855F7&color=A855F7&line=7C3AED&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakhimittal09/rakhimittal09/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakhimittal09/rakhimittal09/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/rakhimittal09/rakhimittal09/output/github-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## 💡 &nbsp;Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎯 &nbsp;Coding Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!-- This section auto-updates when WakaTime is connected -->
-<!--END_SECTION:waka-->
-
-> 🔗 **[Connect WakaTime](https://wakatime.com)** to auto-display your weekly coding hours here!
 
 </div>
 
