@@ -1,203 +1,173 @@
 <div align="center">
 
-<!-- Capsule Render Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Rakhi%20Mittal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=✨%20Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner%20✨&descAlignY=58&descSize=15"/>
+<!-- Waving header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Rakhi%20Mittal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A8%20Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner%20%E2%9C%A8&descAlignY=58&descSize=15" alt="Rakhi Mittal - Full-Stack Developer | Problem Solver | Lifelong Learner" width="100%" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=650&height=45&lines=%F0%9F%9A%80+Building+Full-Stack+Web+Projects;%F0%9F%92%BB+React+%7C+Node.js+%7C+Express+%7C+MongoDB;%F0%9F%8C%9F+Open+Source+Enthusiast;%F0%9F%8C%B1+Always+Learning%2C+Always+Growing;%F0%9F%94%A5+Turning+Coffee+into+Code!" alt="Typing SVG" />
+<!-- Typing animation -->
+<a href="https://github.com/rakhimittal09">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+Building+Full-Stack+Web+Projects;%F0%9F%92%BB+React+%7C+Node.js+%7C+Express+%7C+MongoDB;%F0%9F%8C%9F+Open+Source+Enthusiast;%F0%9F%8C%B1+Always+Learning%2C+Always+Growing;%F0%9F%94%A5+Turning+Coffee+into+Code!" alt="Animated typing text: Building Full-Stack Web Projects, React, Node.js, Express, MongoDB, Open Source Enthusiast, Always Learning" />
 </a>
 
 <br/><br/>
 
-<!-- Animated Social Badges -->
+<!-- Social badges -->
 <a href="mailto:rmittal0908@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rakhi Mittal on Gmail" />
 </a>
 <a href="https://mastodon.social/@RakhiMittal">
-  <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Rakhi Mittal on Mastodon" />
 </a>
 <a href="https://github.com/rakhimittal09">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="rakhimittal09 on GitHub" />
 </a>
 
 <br/><br/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=rakhimittal09&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/rakhimittal09?style=for-the-badge&color=blueviolet&logo=github&label=FOLLOWERS"/>
+<!-- Counters -->
+<img src="https://komarev.com/ghpvc/?username=rakhimittal09&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="GitHub profile views counter" />
+<img src="https://img.shields.io/github/followers/rakhimittal09?style=for-the-badge&color=blueviolet&logo=github&label=FOLLOWERS" alt="GitHub followers count" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:f093fb&height=3" width="100%" alt="" />
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> &nbsp;About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
+## 👩‍💻 About Me
 
 ```javascript
 const rakhi = {
   name         : "Rakhi Mittal",
   role         : "Full-Stack Developer",
-  code         : ["JavaScript", "C++", "Java", "HTML", "CSS"],
-  frameworks   : ["React.js", "Node.js", "Express.js",
-                  "Bootstrap", "TailwindCSS"],
+  languages    : ["C", "C++", "Java", "JavaScript", "HTML", "CSS"],
+  frameworks   : ["React.js", "Node.js", "Express.js", "Bootstrap", "Tailwind CSS"],
   databases    : ["MongoDB", "MySQL"],
-  tools        : ["Git", "GitHub", "VS Code", "EJS"],
-  currentFocus : "Full-Stack Dev + DSA Mastery 🎯",
+  tools        : ["Git", "GitHub", "VS Code"],
+  currentFocus : "Full-Stack Development + DSA 🎯",
   openTo       : "Collaborations & Open Source 🤝",
   funFact      : "I debug for hours just to feel like a genius! 😂💻"
 };
 ```
 
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-🔭 &nbsp;**Working On** → Full-Stack Projects <br/>
-🤝 &nbsp;**Collaborating On** → Open Source <br/>
-🌱 &nbsp;**Learning** → React · Node · DSA <br/>
-
-</td>
-<td width="50%">
-
-🆘 &nbsp;**Need Help With** → Advanced DSA <br/>
-💬 &nbsp;**Ask Me About** → JS · React · Git <br/>
-⚡ &nbsp;**Fun Fact** → Bugs fear me... eventually 😄 <br/>
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      🔭 <b>Working On</b> → Full-Stack Projects<br/><br/>
+      🤝 <b>Collaborating On</b> → Open Source<br/><br/>
+      🌱 <b>Learning</b> → Full-Stack Development &amp; DSA
+    </td>
+    <td width="50%" valign="top">
+      🆘 <b>Need Help With</b> → Advanced DSA<br/><br/>
+      💬 <b>Ask Me About</b> → JavaScript · React · Git<br/><br/>
+      ⚡ <b>Fun Fact</b> → Bugs fear me... eventually 😄
+    </td>
+  </tr>
 </table>
 
-<br clear="right"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:f093fb&height=3" width="100%" alt="" />
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## 🛠️ &nbsp;Tech Stack & Tools
+## 🛠️ Tech Stack &amp; Tools
 
 <div align="center">
 
-<br/>
-
 **💡 Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark" alt="Languages: C, C++, Java, JavaScript, HTML, CSS" />
 
 <br/><br/>
 
-**🚀 Frameworks & Libraries**
+**🚀 Frameworks &amp; Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind&theme=dark" alt="Frameworks and libraries: React, Node.js, Express.js, Bootstrap, Tailwind CSS" />
 
 <br/><br/>
 
 **🗄️ Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases: MongoDB, MySQL" />
 
 <br/><br/>
 
-**🛠️ Tools**
+**🧰 Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools: Git, GitHub, VS Code" />
 
 <br/><br/>
 
-<!-- Also keep badge style for extra detail -->
 <details>
 <summary><b>🔖 View All Badges</b></summary>
 <br/>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </details>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:f093fb&height=3" width="100%" alt="" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## 📊 &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=rakhimittal09&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=rakhimittal09&theme=tokyonight&hide_border=true&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rakhimittal09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rakhi Mittal's GitHub stats" />
+<img height="180" src="https://streak-stats.demolab.com/?user=rakhimittal09&theme=tokyonight&hide_border=true&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="Rakhi Mittal's GitHub streak stats" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rakhimittal09&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimittal09&layout=compact&theme=tokyonight&hide_border=true" alt="Rakhi Mittal's most used languages" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:f093fb&height=3" width="100%" alt="" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## 💡 &nbsp;Dev Quote
+## 💡 Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:f093fb&height=3" width="100%" alt="" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-## 🤝 &nbsp;Let's Connect!
+## 🤝 Let's Connect!
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
 
 **I'm always open to interesting conversations and collaboration opportunities!**
 
 <br/>
 
 <a href="mailto:rmittal0908@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Rakhi an email" />
 </a>
-&nbsp;
 <a href="https://github.com/rakhimittal09?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20My%20Projects-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_My_Projects-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Rakhi's GitHub repositories" />
+</a>
+<a href="https://mastodon.social/@RakhiMittal">
+  <img src="https://img.shields.io/badge/Follow_on_Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Follow Rakhi on Mastodon" />
 </a>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-1679e4c44898.gif" width="550"/>
-
-<br/>
-
-### 🌟 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=130&section=footer&animation=twinkling"/>
+⭐ <i>Thanks for stopping by, happy coding!</i> ⭐
 
 </div>
+
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=130&section=footer&animation=twinkling" alt="" width="100%" />
